@@ -3,7 +3,7 @@
 
 🏠 blog : https://blog.naver.com/leesunforest
 
-## 📘 Tech Stack ♫ 📘
+## 📘 Tech Stack 📘
 <br>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
 <img alt="html" src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> 
@@ -17,6 +17,6 @@
 ## :low_brightness:   GitHub Stats  :low_brightness: 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=backmunji&theme=discord_old_blurple&show_icons=true"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=leesunforest&theme=discord_old_blurple&show_icons=true"/></a>
 
 
