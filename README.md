@@ -1,19 +1,3 @@
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  <div align="center">
-  ✉️ e-mail : leesunforest@gmail.com
-  <br>
-  🏠 blog : https://blog.naver.com/leesunforest
-  </div>
-</div>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
