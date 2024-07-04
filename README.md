@@ -7,8 +7,10 @@
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <div align="center">
   ✉️ e-mail : leesunforest@gmail.com
   🏠 blog : https://blog.naver.com/leesunforest
+  </div>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
