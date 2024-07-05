@@ -10,7 +10,6 @@
   <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
 </div>
-
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
